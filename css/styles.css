@@ -362,6 +362,10 @@ select {
   cursor: pointer;
 }
 
+.reference{
+  color: #212529
+}
+
 select {
   word-wrap: normal;
 }
